@@ -6,9 +6,15 @@ I enjoy building **scalable backend systems, REST APIs, and responsive web appli
 along with creating **dynamic WordPress websites** using Elementor, WooCommerce, and SEO optimization.  
 
 ## 🚀 Tech Stack
-**Languages:**  
+**Languages & Libraries:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=plotly&logoColor=white) 
+![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=plotly&logoColor=white)  
+![NLTK](https://img.shields.io/badge/NLTK-154360?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
 **Web Development:**  
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
@@ -28,6 +34,7 @@ along with creating **dynamic WordPress websites** using Elementor, WooCommerce,
 **Other Tools:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=postman&logoColor=white)  
+ 
 
 ## 🔮 Upcoming Projects
 - **Neurawise** – AI-powered research assistant built with Django and REST APIs.  
