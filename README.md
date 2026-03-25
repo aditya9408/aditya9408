@@ -3,7 +3,7 @@
 ## 💻 About Me
 I’m a Computer Science graduate and passionate **Python/Django & WordPress Developer**.  
 I enjoy building **scalable backend systems, REST APIs, and responsive web applications**,  
-along with creating **dynamic WordPress websites** using Elementor, WooCommerce, and SEO optimization.  
+along with creating **dynamic WordPress websites** using Elementor, WooCommerce, and SEO optimization  
 
 ## 🚀 Tech Stack
 **Languages & Libraries:**  
